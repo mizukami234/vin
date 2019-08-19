@@ -1,6 +1,6 @@
-## 開発環境構築
+e## 開発環境構築
 
 ```
 # TODO: 整理
-brew install ocaml opam
+brew install opam
 ```
